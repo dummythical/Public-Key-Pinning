@@ -1,0 +1,12 @@
+{
+  "name": "cert-pinning-react-native",
+  "version": "1.0.0",
+  "main": "App.js",
+  "private": true,
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.4",
+    "react-native-ssl-pinning": "^1.9.0",
+    "react-native-fs": "^2.20.0"
+  }
+}
